@@ -9,4 +9,4 @@
 :HL["/_next/static/chunks/3ekaeyj3l5_-0.css","style"]
 :HL["/_next/static/chunks/27y7ib63bzjtb.css","style"]
 :HL["/_next/static/chunks/3qva7iz6cj8wj.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"work","param":null,"prefetchHints":4192,"slots":{"children":{"name":"hybrid-training-club","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"w_KqP1h89bFNS8po2wy1A"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"work","param":null,"prefetchHints":4192,"slots":{"children":{"name":"hybrid-training-club","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"3N3-QRvbIDGrxOQ_oHQ7v"}
