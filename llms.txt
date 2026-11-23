@@ -1,0 +1,35 @@
+# vincent & blendwick
+
+> Art direction and product design from Stuttgart. From an unclear idea to something you can use.
+
+I'm Bryan V.B. Nee-Darko. I do art direction and product design as vincent & blendwick, based in Stuttgart, Germany. I have been in design since 2012: brand, space, product, film. I work across six disciplines: brand, space, product, decks, film, image. One person from first sketch to working product.
+
+- What I make: identity and print, web and things for the phone, decks and editions, film, social, images. Whatever the idea needs: to hold, to show, to use.
+- Worked with: brands from automotive to luxury retail. The names are listed on the home page. Where a client said yes, the work is under Work.
+- Prices: no prices are published on this site.
+- Contact: bryan@vincentblendwick.com, phone +49 173 4619223
+- Address: vincent & blendwick, König-Karl-Straße 1, 70372 Stuttgart, Germany
+- Language of the site: English. A German version of this file: https://vincentblendwick.com/llms-de.txt
+
+## Pages
+
+- [Home](https://vincentblendwick.com): who I am, what I make, the cases, how I work, the brands I worked with, contact.
+- [Work](https://vincentblendwick.com/work): three projects. Each one answers the same question in a different domain: where does a person stay in the loop, and where has an agent earned the right to act alone?
+
+## Cases
+
+- [Contents & Editions](https://vincentblendwick.com/work/contents-and-editions): film, social and decks from one setup: one interview, one set of references, one production line, with the Northlight image pipeline underneath. Own product, live at contentsandeditions.com.
+- [Hybrid Training Club](https://vincentblendwick.com/work/hybrid-training-club): 88 motifs across 49 posts for a gym in Stuttgart, planned, written and designed in one system the owners can still edit themselves.
+- [Deckforge](https://vincentblendwick.com/work/deckforge): a PowerPoint master with 63 layouts, every slide still editable, and the measurement that keeps it honest.
+- [ICS Playlist Studio](https://vincentblendwick.com/work/ics-playlist-studio): a playlist studio for indoor cycling, and the discipline of a read-only Ride Mode. Live and in use.
+- [Pausenraum](https://vincentblendwick.com/work/pausenraum): a product for people whose job is wearing them down, and where the agent has to step back. In a closed test.
+
+## Related sites
+
+- [Contents & Editions](https://contentsandeditions.com): film, social and decks from one setup. My own product.
+- [NACHHALL](https://nachhall.space): NH-1, the speaker NACHHALL is building. My own brand, shown in the Contents & Editions case.
+
+## Legal
+
+- [Imprint](https://vincentblendwick.com/impressum)
+- [Privacy](https://vincentblendwick.com/datenschutz)
